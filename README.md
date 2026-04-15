@@ -110,7 +110,6 @@ Edge-deployed blogging platform with production-grade validation.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
 
 <div align="center">
 
