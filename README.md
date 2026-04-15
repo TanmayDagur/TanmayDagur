@@ -110,11 +110,16 @@ Edge-deployed blogging platform with production-grade validation.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanmayDagur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tanmay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDagur&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=TanmayDagur&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TanmayDagur&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TanmayDagur&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=TanmayDagur&theme=tokyonight&hide_border=true)
+
 </div>
+
 
 
 ---
