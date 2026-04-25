@@ -1,153 +1,165 @@
 <div align="center">
 
-```
-████████╗ █████╗ ███╗   ██╗███╗   ███╗ █████╗ ██╗   ██╗
-╚══██╔══╝██╔══██╗████╗  ██║████╗ ████║██╔══██╗╚██╗ ██╔╝
-   ██║   ███████║██╔██╗ ██║██╔████╔██║███████║ ╚████╔╝ 
-   ██║   ██╔══██║██║╚██╗██║██║╚██╔╝██║██╔══██║  ╚██╔╝  
-   ██║   ██║  ██║██║ ╚████║██║ ╚═╝ ██║██║  ██║   ██║   
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝  
-                                              DAGUR
-```
+# Hi, I'm Tanmay Dagur
 
-### 🧑‍💻 Full Stack Developer · Building things that scale · New Delhi, India
+### Full Stack Developer | React, Next.js, Node.js, TypeScript
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-dagur-aa62b9374/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanmayDagur)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmaydagur200@gmail.com)
+I build clean interfaces, secure APIs, and practical full-stack products that are meant to be used by real people.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+from+New+Delhi;React+%2B+Node.js+%2B+MongoDB+in+production;Building+wallets%2C+AI+apps%2C+and+edge+APIs)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanmay%20Dagur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-dagur-aa62b9374/)
+[![Email](https://img.shields.io/badge/Email-tanmaydagur200%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmaydagur200@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-TanmayDagur-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanmayDagur)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## What I Do
 
-> *"I don't just write code — I build systems that actually work."*
+```ts
+const tanmay = {
+  role: "Full Stack Developer",
+  location: "New Delhi, India",
+  focus: ["production dashboards", "secure REST APIs", "full-stack products"],
+  currentlyBuilding: "React + Node.js + MongoDB apps for real users",
+  learningNext: ["system design", "cloud", "DevOps"],
+};
+```
 
-I'm a **Full Stack Developer** based in **New Delhi**, currently working at **Corporate Marriage Bureau** where I ship real features for real users. I love turning complex problems into clean, scalable solutions — from pixel-perfect UIs to rock-solid backend APIs.
-
-- 🔭 Currently working on: **Production apps with React.js + Node.js + MongoDB**
-- 🌱 Always learning: **System Design, Cloud, DevOps**
-- ⚡ Fun fact: I've built APIs that handle **500+ live records** with real users depending on them daily
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-
-### Database & ORM
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+- Working as a **Full Stack Developer at Corporate Marriage Bureau**.
+- Built a responsive admin dashboard that improved profile management time by **about 40%**.
+- Developed **10+ JWT-secured backend APIs** for CRUD workflows across **500+ staff profiles**.
+- Designed MongoDB schemas with practical search and filter support for **500+ live records**.
 
 ---
 
-## 💼 Experience
-
-### Full Stack Developer @ [Corporate Marriage Bureau](https://corporatemarriagebureau.com) *(Jun 2025 – Present)*
-> React.js · Node.js · Express.js · MongoDB · TypeScript · Tailwind CSS
-
-- ⚡ Built a **responsive admin dashboard** that cut profile management time by **~40%**
-- 🔐 Engineered **10+ secure REST APIs** with JWT auth for CRUD operations on **500+ staff profiles**
-- 🗄️ Designed **MongoDB schemas** with advanced filter & search for 500+ live records
-
----
-
-## 🏗️ Featured Projects
-
-### 💳 [Paytm-Style Digital Wallet](https://github.com/TanmayDagur)
-> React.js · Next.js · TypeScript · Prisma · PostgreSQL · Tailwind CSS
-
-A full-featured peer-to-peer digital wallet system — not just a demo, a real system.
-
-| Feature | Impact |
-|--------|--------|
-| P2P Transfers & Wallet Top-ups | Core user flow |
-| JWT Auth + Protected Routes | 50% fewer access issues |
-| 100% Transaction Logging | Full audit trail with rollback |
-| Robust Error Handling | 40% crash reduction |
-
----
-
-### 🤖 [AI Image Generation App](https://github.com/TanmayDagur)
-> Next.js · TypeScript · Tailwind CSS · Hugging Face Inference API
-
-Serverless AI image generation with zero-latency UI updates.
-
-- 🔒 Server-side API routes keep tokens secure (no client exposure)
-- 🌙 Responsive dark UI with real-time status & image modal
-- ⚡ Next.js Serverless Functions = minimal client load
-
----
-
-### 📝 [Medium-Style Blogging Platform](https://github.com/TanmayDagur) *(100xDevs Training)*
-> React.js · TypeScript · Vite · Tailwind CSS · Hono · Cloudflare Workers
-
-Edge-deployed blogging platform with production-grade validation.
-
-- ✍️ Rich blog editor → **2x faster** content creation
-- ⚡ JWT-secured APIs → **30% faster** dashboard loads
-- ✅ **95% validation accuracy** via Zod — bulletproof data integrity
-
----
-
-## 📊 GitHub Stats
-
+## Tech I Use
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TanmayDagur&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TanmayDagur&theme=tokyonight)
-![](https://streak-stats.demolab.com?user=TanmayDagur&theme=tokyonight&hide_border=true)
+| Frontend | Backend | Database | Tools |
+| --- | --- | --- | --- |
+| React.js | Node.js | PostgreSQL | Git |
+| Next.js | Express.js | MongoDB | GitHub |
+| Vite | TypeScript | Prisma ORM | Docker |
+| Tailwind CSS | Hono |  | WSL |
+|  | REST APIs |  | Turborepo |
+|  | JWT Auth |  | Cloudflare Workers |
+|  | Zod |  |  |
 
 </div>
 
+<div align="center">
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-222222?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</div>
 
 ---
 
-## 🎓 Education & Certifications
+## Featured Builds
 
-🎓 **B.Tech in Computer Science** — Bikaner Technical University, Rajasthan
+### [Paytm-Style Digital Wallet](https://github.com/TanmayDagur/Paytm-wallet)
 
-| Certification | Issuer |
-|---|---|
-| 🏆 Full Stack Web Development | 100xDevs |
-| 🎨 Web Designing | Acme Embedded Technologies |
-| 💼 Full Stack Intern | Corporate Marriage Bureau |
+**React.js | Next.js | TypeScript | Prisma | PostgreSQL | Tailwind CSS**
+
+A peer-to-peer wallet system with account creation, wallet top-ups, protected routes, and user-to-user transfers.
+
+- Secured sessions with JWT auth and route protection, reducing access issues by **50%**.
+- Logged **100% of transactions** with status, timestamps, and rollback-friendly data.
+- Improved feedback and stability with stronger error handling, reducing crashes by **40%**.
+
+### [AI Image Generation App](https://github.com/TanmayDagur/Image-Genration)
+
+**Next.js App Router | TypeScript | Tailwind CSS | Hugging Face Inference API**
+
+A dark-mode AI image generator with secure server-side inference and smooth image rendering.
+
+- Kept API tokens safe with a server-side Next.js API route.
+- Converted binary image data to Base64 for reliable frontend rendering.
+- Added real-time inference status, route error handling, and an image modal.
+
+### [Medium-Style Blogging Platform](https://github.com/TanmayDagur/Medium_clone)
+
+**React.js | TypeScript | Vite | Tailwind CSS | Hono | Cloudflare Workers**
+
+An edge-deployed blogging platform built during 100xDevs training.
+
+- Created a rich blog editor with image metadata, improving content creation speed by **2x**.
+- Integrated JWT-secured APIs and improved dashboard load time by **30%**.
+- Used Zod validation across REST APIs, reaching **95% validation accuracy**.
+
+### [Developer Portfolio](https://github.com/TanmayDagur/Portfolio)
+
+**TypeScript | Modern frontend UI**
+
+A personal portfolio project that brings my work, profile, and frontend style into one place.
 
 ---
 
-## 📬 Let's Connect
+## Experience Snapshot
+
+### Full Stack Developer, Corporate Marriage Bureau
+
+**New Delhi | Jun 2025 - Present**
+
+Working across frontend and backend features with **React.js, Tailwind CSS, TypeScript, Node.js, Express.js, and MongoDB**.
+
+```mermaid
+flowchart LR
+  A[User needs] --> B[Clean React UI]
+  B --> C[Secure Node APIs]
+  C --> D[MongoDB data model]
+  D --> E[Searchable admin workflows]
+  E --> F[Real production impact]
+```
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-If you're building something cool and need a developer who ships — let's talk.
+![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanmayDagur&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![LinkedIn](https://img.shields.io/badge/Hit%20me%20up%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-dagur-aa62b9374/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmaydagur200@gmail.com)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDagur&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub streak](https://streak-stats.demolab.com?user=TanmayDagur&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-*"Every line of code is a decision. Make it count."*
+## Education & Certifications
 
-![Profile Views](https://komarev.com/ghpvc/?username=TanmayDagur&color=blueviolet&style=for-the-badge)
+- **B.Tech in Computer Science**, Bikaner Technical University, Rajasthan
+- **Full Stack Web Development**, 100xDevs
+- **Web Designing**, Acme Embedded Technologies
+- **Full Stack Intern**, Corporate Marriage Bureau
+
+---
+
+## Let's Connect
+
+I like building full-stack products with clear UX, dependable APIs, and enough polish that the details feel intentional. If you are working on a product, dashboard, AI app, or backend-heavy feature, I would be happy to connect.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-dagur-aa62b9374/)
+[![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmaydagur200@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=TanmayDagur&style=for-the-badge&color=38BDF8)
 
 </div>
